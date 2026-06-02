@@ -1,4 +1,4 @@
-![Jake Hoover](gemini-svg (1).svg)
+![Jake Hoover](jake.svg)
 
 Technician by trade — gunsmith, arcade/video game field tech, casino operator, early Bitcoin miner, construction. I think in systems. I build things for the people who live in them.
 
