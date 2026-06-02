@@ -1,4 +1,4 @@
-![Jake Hoover](header.svg)
+![Jake Hoover](gemini-svg.svg)
 
 **Background:** Technician by trade — former firearms customer service rep (Kimber 1911s), arcade/video game field tech, casino operator, early Bitcoin miner, construction. I think in systems. I build things for the people who live in them.
 
