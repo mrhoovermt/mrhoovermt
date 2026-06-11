@@ -75,7 +75,7 @@ Permanent public infrastructure for human communication. Not a startup — there
 
 Every account is a verified human ($5/year, Stripe Identity). No ads, no behavioral manipulation, no algorithmic exploitation, no acquisition, no investors. The codebase is AGPL-3.0, open source from the first commit. The founder draws no profit.
 
-The governance is the product. I wrote a full [Founding Constitution](CONSTITUTION.md) with irrevocable provisions, a compelled-transition trigger that prevents indefinite founder control, and a purpose-locked Swiss Foundation structure. The codebase has the governance scaffolded in from day one — append-only audit logs with cryptographic chain hashing, OpenTimestamps anchoring, a `governance_decisions` table, and feature predicates that enforce constitutional provisions at runtime.
+The governance is the product. I wrote a full [Founding Constitution](https://github.com/mrhoovermt/flipnet-docs/blob/main/CONSTITUTION.md) with irrevocable provisions, a compelled-transition trigger that prevents indefinite founder control, and a purpose-locked Swiss Foundation structure. The codebase has the governance scaffolded in from day one — append-only audit logs with cryptographic chain hashing, OpenTimestamps anchoring, a `governance_decisions` table, and feature predicates that enforce constitutional provisions at runtime.
 
 **Stack:** React 18 + Vite, Fastify, Drizzle ORM, PostgreSQL on Neon, Better Auth, Upstash Redis, Cloudflare R2, Railway. Full stack definition with an explicit banned-technology list and mandatory architecture patterns (idempotency keys on every write endpoint, Postgres outbox pattern, transport-swappable real-time).
 
@@ -83,7 +83,7 @@ I am the Founding Chair of FLIPNET LLC (Oregon Registry #255242399, USPTO Serial
 
 ---
 
-### TitanListing — [titanlisting.com](https://titanlisting.com)
+### TitanListing — [titanlisting.com](https://titanlisting.com) [Staging](https://titanlisting-staging.up.railway.app/)
 **Status: Postponed. Feature-complete marketplace.**
 
 A business listing platform with buyer/seller/lender portals, document vaults with watermarking and NDA workflows, Stripe Identity verification for buyers, magic-link authentication, geo-filtered lender matching, and a superuser operations dashboard. Node.js/Express, PostgreSQL, Railway.
