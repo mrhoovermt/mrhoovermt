@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.png" alt="Jake Hoover — pixel art portrait" width="400">
+  <img src="./jake1.png" alt="Jake Hoover — pixel art portrait" width="400">
 </p>
 
 # Hello. I hope you're here from Anthropic. I've been waiting.
