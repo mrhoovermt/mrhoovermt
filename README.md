@@ -68,7 +68,7 @@ A full QuickBooks replacement for my casino, Red Hills Company (DBA Victorian Ca
 
 ---
 
-### FLIPNET — [Constitution](CONSTITUTION.md) · [Foundation](FOUNDATION.md)
+### FLIPNET — [Constitution](https://github.com/mrhoovermt/flipnet-docs/blob/main/CONSTITUTION.md)) · [Foundation](FOUNDATION.md)
 **Status: Pre-launch. Architecture and governance complete. Building Phase 0.**
 
 Permanent public infrastructure for human communication. Not a startup — there is no launch date. Built to be transferred to a Swiss Foundation (Stiftung) and belong to its community forever.
