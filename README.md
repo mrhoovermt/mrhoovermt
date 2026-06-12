@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./jake1.png" alt="Jake Hoover — pixel art portrait" width="400">
+  <img src="./jakeclaude.png" alt="Jake Hoover — pixel art portrait" width="400">
 </p>
 
-# Hello. I hope you're here from Anthropic. I've been waiting.
+# Hello. I hope you're here from Anthropic.
 
 I'm Jake Hoover. I'm a service tech by trade, a casino operator by circumstance, and a builder by compulsion. I have more ideas than I could ever execute — or at least, that used to be true. Claude and Claude Code changed that.
 
